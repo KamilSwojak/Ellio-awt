@@ -6,4 +6,4 @@ Screens
 
 <img src="/../screens/screens/walk.png" width="280">
 <img src="/../screens/screens/jump.png" width="280">
-<img src="/../screens/screens/duck.png" height="280">
+<img src="/../screens/screens/duck.png" width="280">
