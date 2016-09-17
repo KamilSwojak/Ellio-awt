@@ -2,3 +2,7 @@ Simple scrolling game written using [simple java game development framework](htt
 
 Screens
 -------
+
+<img src="/../screens/screens/walk.png" width="360">
+<img src="/../screens/screens/jump.png" width="360">
+<img src="/../screens/screens/duck.png" height="360">
